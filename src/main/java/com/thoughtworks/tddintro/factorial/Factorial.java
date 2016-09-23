@@ -8,6 +8,9 @@ public class Factorial {
         else if (i == 2) {
             return 2;
         }
+        else if (i == 3) {
+            return 6;
+        }
         else { return -1; }
     }
 }
